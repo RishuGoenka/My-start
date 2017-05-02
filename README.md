@@ -1,3 +1,6 @@
 # My-start
-I am starting learing how to work in git
-Finally learned
+Started to learn how to work in github
+completed master and branch creation 
+completed pull request
+completed merge
+Finished Basic Learning.
